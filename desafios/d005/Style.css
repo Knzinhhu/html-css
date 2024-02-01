@@ -1,0 +1,18 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: Cursive;
+}
+
+body{
+
+    background: linear-gradient(to left, #01618d, #247BA0, #01618d);
+    text-align: center
+};
+
+h1{
+    border-width: medium;
+    border-style: solid;
+    border-color: black;
+};
+
